@@ -25,7 +25,7 @@ Originally built to transfer **facial animations** between characters, but works
 
 ## 📷 UI Overview
 
-![UI Screenshot](UI.png)
+![UI Screenshot](img/UI.png)
 
 ---
 
